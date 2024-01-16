@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaazTariq007
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning multiple languages.
-- 💞️ I’m looking to collaborate on a project that you might want to help.
-- 📫 How to reach me at maaztariq000@gmail.com / or visit my LinkedIn in/maaz-tariq-11122b295.
+-👋 Hi, I’m Maaz Tariq (@MaazTariq007).
+-👀 I’m passionate about web development.
+-🌱 Currently, I am immersed in learning multiple programming languages.
+-💞️ I'm currently exploring job opportunities and would greatly appreciate your support.
+-📫 Reach me at maaztariq000@gmail.com or visit my LinkedIn profile: linkedin.com/in/maaz-tariq-11122b295.
 
 <!---
 MaazTariq007/MaazTariq007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
